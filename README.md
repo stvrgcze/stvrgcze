@@ -1,10 +1,6 @@
 
-# hey, i'm star! ♡  
-
-### status: <img src="https://api.statusbadges.me/badge/status/1516467459136421912" alt="status">
-### listening to: <img src="https://api.statusbadges.me/badge/spotify/1516467459136421912" alt="spotify">
-### coding: <img src="https://api.statusbadges.me/badge/vscode/1516467459136421912" alt="vscode">
-### playing: <img src="https://api.statusbadges.me/badge/playing/1516467459136421912" alt="playing">
+# hey, i'm star! ♡
+### <img src="https://api.statusbadges.me/badge/status/1516467459136421912" alt="status"> <img src="https://api.statusbadges.me/badge/spotify/1516467459136421912" alt="spotify"> <img src="https://api.statusbadges.me/badge/vscode/1516467459136421912" alt="vscode"> <img src="https://api.statusbadges.me/badge/playing/1516467459136421912" alt="playing">
 
 ### about me
 - my name is star
@@ -12,20 +8,17 @@
 - currently listening to Glitchcore
 - hobbies: Gaming
 - newbie at coding
-
+---
 ### my interests
 - Music
 - Roblox
 - Cats
-
-### skills
-- Digital Design
-
+- Coding
+---
 ### a little more about me
 - pronouns: they/them
 - favorite color: Anything Monochrome
-- favorite song: `"KNOW WHAT YOU WANT & feel by removeface"`
+- i love glitchcore music
 
 ---
-
 thanks for stopping by! ♡
