@@ -1,6 +1,6 @@
 
 # hey, i'm star! ♡
-### <img src="https://api.statusbadges.me/badge/status/1516467459136421912" alt="status"> <img src="https://api.statusbadges.me/badge/spotify/1516467459136421912" alt="spotify"> <img src="https://api.statusbadges.me/badge/vscode/1516467459136421912" alt="vscode"> <img src="https://api.statusbadges.me/badge/playing/1516467459136421912" alt="playing">
+### ![status](https://api.statusbadges.me/badge/status/1516467459136421912)![playing](https://api.statusbadges.me/badge/playing/1516467459136421912)![vscode](https://api.statusbadges.me/badge/vscode/1516467459136421912)![spotify](https://api.statusbadges.me/badge/spotify/1516467459136421912)
 
 ### about me
 - my name is star
