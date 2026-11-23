@@ -14,7 +14,7 @@
 ---
 ### my interests
 - Music
-- IT (Information Technology)
+- Information Technology
 - Gaming
 - Cats
 - Coding
