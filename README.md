@@ -14,10 +14,11 @@
 ---
 ### my interests
 - Music
-- IT (information Technology)
+- IT (Information Technology)
 - Gaming
 - Cats
 - Coding
 
+### [my carrd](stvrgcze.carrd.co)
 ---
 thanks for stopping by! ♡
