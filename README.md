@@ -9,21 +9,15 @@
 
 ### about me
 - my name is star
-- interested in Information Technology
-- currently listening to Glitchcore
-- hobbies: Gaming
-- newbie at coding
+- pronouns: they/them
+- Newbie at Coding
 ---
 ### my interests
 - Music
-- Roblox
+- IT (information Technology)
+- Gaming
 - Cats
 - Coding
----
-### a little more about me
-- pronouns: they/them
-- favorite color: Anything Monochrome
-- i love glitchcore music
 
 ---
 thanks for stopping by! ♡
