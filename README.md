@@ -19,6 +19,5 @@
 - Cats
 - Coding
 
-### [my carrd](stvrgcze.carrd.co)
 ---
 thanks for stopping by! ♡
